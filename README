@@ -1,0 +1,2 @@
+Small benchmark to compare zlib vs miniz.
+Put files to compress into data directory and run `sh test.sh`.
